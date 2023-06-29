@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui;
+    font-weight: 600;
+    list-style: none;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkseagreen;
+}
+
+h1 {
+    margin-top: 50px;
+    height: 100px;
+    text-align: center;
+    color:darkslategray;
+
+}
+
+a {
+    font-size: 40px;
+}
+hr {
+    width: 1200px;
+}
+
+
+img {
+    width: 120px;
+    height: 120px;
+    border-radius: 120px;
+}
+.insta {
+    display: flex;
+    justify-content: start;
+    align-items: end;
+    gap: 0 750px;
+}
+a {
+    width: 200px;
+}
+.face {
+    display: flex;
+    justify-content: start;
+    align-items: end;
+    gap: 0 750px;
+}
+
+.tele {
+    display: flex;
+    justify-content: start;
+    align-items: end;
+    gap: 0 750px;
+}
+
+.tube {
+    display: flex;
+    justify-content: start;
+    align-items: end;
+    gap: 0 750px;
+}
+
+.vibe {
+    display: flex;
+    justify-content: start;
+    align-items: end;
+    gap: 0 750px;
+}
+
+.but {
+    width: 200px;
+    height: 100px;
+
+}
+.button {
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+
+}
+.ssilka {
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-size: 20px;
+    display: inline-block;
+    background: #8C959D;
+    color: #fff;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    border-radius: 3px;
+}
